@@ -12,6 +12,14 @@ Hello, my name is Shuxu Chen, and I am a current graduate student at Dalian Univ
 Here is my resume and personal introduction. I am open to any opportunities and challenges that come my way.
 
 
+Research Interest
+---
+
+
+
+
+
+
 
 A data-driven personal website
 ======
