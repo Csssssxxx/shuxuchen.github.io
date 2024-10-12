@@ -12,7 +12,7 @@ Hello, my name is Shuxu Chen, and I am a current graduate student at Dalian Univ
 Here is my resume and personal introduction. I am open to any opportunities and challenges that come my way.
 
 
-Research Interest
+### Research Interest
 
 My current research interests lie in recommendation systems, interdisciplinary applications of artificial intelligence, such as its integration with medicine, and machine learning. I hope to apply my talents to research that is both practically helpful and meaningful.
 
