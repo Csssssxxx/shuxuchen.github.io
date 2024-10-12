@@ -16,7 +16,7 @@ Research Interest
 ======
 My current research interests lie in recommendation systems, interdisciplinary applications of artificial intelligence, such as its integration with medicine, and machine learning. I hope to apply my talents to research that is both practically helpful and meaningful.
 
-Getting started
+G
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
